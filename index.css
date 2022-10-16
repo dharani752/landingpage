@@ -45,6 +45,10 @@ body {
       display: block;
     }
   }
+img
+{
+    width:100%;
+}
   
   @media screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
